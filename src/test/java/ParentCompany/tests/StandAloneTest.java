@@ -16,7 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import souravmil.pageobjects.LandingPage;
 
 public class StandAloneTest {
-
+	//new comments added
 	public static void main(String[] args) throws InterruptedException {
 		String productName = "ADIDAS ORIGINAL";
 		WebDriverManager.chromedriver().setup();
